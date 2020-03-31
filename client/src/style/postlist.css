@@ -1,0 +1,14 @@
+.Post{
+    margin-bottom: 2rem;
+    margin-top: 0;
+    /*background-color: #ff4d4d;*/
+    padding: 1rem;
+    border-radius: 5px;
+}
+.PostTitle{
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+.PostMeta{
+    margin-bottom: 1rem;
+}
